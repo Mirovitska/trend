@@ -1,0 +1,7 @@
+*.xml
+*.html
+*.iml
+.gitignore
+.idea/
+HWMir.iml
+out/
